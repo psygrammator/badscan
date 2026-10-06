@@ -1,0 +1,67 @@
+# category	city	url	title
+# Компанії з публічної видачі. Каталоги сюди не класти.
+realty	Харків	https://kvartal.ua/	Квартал
+realty	Харків	https://khbn.com.ua/ua/	Харківське бюро нерухомості
+realty	Харків	https://avers.in.ua/	АН Аверс
+realty	Харків	https://www.kharkov-realter.com.ua/	Харків-Ріелтер
+realty	Харків	https://xan.com.ua/ua/about	ХАН
+realty	Харків	https://www.altair-an.kharkov.ua/	АН Альтаїр
+realty	Київ	https://blagovist.ua/uk	Благовіст
+realty	Київ	https://mayak.kiev.ua/	Маяк
+realty	Київ	https://kievrealtor.com.ua/	Київський Ріелтор
+realty	Київ	https://teren.kiev.ua/	TEREN PLUS
+realty	Київ	https://brick.kyiv.ua/ua/	BRICK
+realty	Одеса	https://president.odessa.ua/	АН Президент
+realty	Одеса	https://avalon-odessa.com/uk/exclusive	АН Авалон
+realty	Одеса	https://odessa.agency/	АН Стандарт
+realty	Одеса	https://www.atlanta.ua/uk	АН Атланта
+realty	Львів	https://dim.lviv.ua/	Дім Нерухомості
+realty	Львів	https://realestate.lviv.ua/	Рентком
+realty	Львів	https://ves.lviv.ua/	Весь Львів
+realty	Львів	https://rise.lviv.ua/	RISE
+realty	Львів	https://realcity.lviv.ua/	RealCity
+realty	Дніпро	https://www.x-estate.com/pro-nas	X-Estate
+realty	Дніпро	https://prostorealty.com.ua/	PROSTO
+realty	Дніпро	https://agentstvo.com.ua/	Агентство нерухомості №1
+building	Харків	https://kbm.ua/	КБМ
+building	Харків	https://kub.kh.ua/ua/	КУБ Харків
+building	Харків	https://resurs.kharkov.ua/	Ресурс
+building	Харків	https://absolut.kharkov.ua/	БудБаза Абсолют
+building	Харків	https://verol.kh.ua/	Verol
+building	Харків	https://novatorstroy.com/ua/	Новаторбуд
+building	Харків	https://budmaterialy.kh.ua/uk/	Будматеріали Харків
+building	Харків	https://stroybaza.store/	БудБаза-Харків
+building	Київ	https://budmaterial.kyiv.ua/	budMATERIAL
+building	Київ	https://kub.in.ua/ua/	КУБ Київ
+building	Київ	https://www.strojmag.ua/uk	БудМаг
+building	Київ	https://budiak.kiev.ua/	BUDIAK
+building	Київ	https://bud24.com.ua/	Bud24
+building	Одеса	https://www.1d.ua/	Перший Дім
+building	Одеса	https://ua.basco.ua/	Баско
+building	Одеса	https://somic.com.ua/	Сомік
+building	Одеса	https://m2.org.ua/odesa	m2
+construction	Харків	https://wildeast-building.com.ua/	WILD EAST
+construction	Харків	https://fidelit-stroy.kh.ua/	Fidelit Stroy
+construction	Харків	https://amion.com.ua/uk/	Аміон
+construction	Харків	https://everest.kharkov.ua/	Еверест
+construction	Київ	https://www.mbk.construction/stomatolohii	МБК
+medicine	Харків	https://www.stom.evviva.com.ua/	Еввіва
+medicine	Харків	https://rishon.com.ua/uk/stomatologiya	RISHON
+medicine	Харків	https://uadentkharkivcenter.com.ua/	UA.DENT Kharkiv
+medicine	Київ	https://med-deo.com.ua/	МЕД-ДЕО
+medicine	Київ	https://shelest-clinic.com.ua/about/	Клініка Шелеста
+auto	Харків	https://toyota.kharkov.ua/	Тойота Артсіті
+auto	Харків	https://citroen.kharkov.ua/	Citroën Харків
+auto	Харків	https://ford-auto.kh.ua/	Фрунзе-Авто
+auto	Харків	https://kharkiv.ukravto.ua/pro-kharkiv-ukravto	УКРАВТО Харків
+auto	Київ	https://na-harkivskomu.ukravto.ua/	УКРАВТО на Харківському
+law	Київ	https://www.bitlex.ua/uk/law_service/yurydychnyy_suprovid_gospodarskoyi_diyalnosti_goteliv	Bitlex
+law	Київ	https://reliance.ua/expertise/gotelnyj-biznes-i-dozvillya/	Reliance
+law	Львів	https://www.olson.lviv.ua/pro-nas.html	OLSON
+law	Київ	https://legalposition24.com/about-us/	Правова Позиція
+law	Львів	https://legaljustice.com.ua/	Legal Justice
+furniture	Харків	https://kharkov.mebelok.com/uk-ua/	МебельОК
+furniture	Харків	https://mebli-kharkiv.kh.ua/	Меблі Харків
+furniture	Одеса	https://best-mebel.com.ua/mebel-saloni-krasoti-na-zakaz-odessa	Хорошая Мебель
+furniture	Одеса	https://komfortcenter.com.ua/uk/product/mebel-na-zakaz/mebel-dlya-salona-krasoty-odessa	КомфортЦентр
+furniture	Одеса	https://klimazon.com/komplekty-parikmakherskikh-mebeli/	Klimazon

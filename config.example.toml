@@ -1,0 +1,49 @@
+# Скопируй в config.toml и впиши ключи. config.toml в git не попадает.
+
+user_agent = "CoreWebLeadResearch/1.0 (+https://coreweb.art; public-page audit)"
+# Пауза между загрузками чужих главной. Не ставь 0.
+delay_sec = 1.2
+timeout_sec = 12
+workers = 3
+db_path = "data/leads.sqlite"
+# Повторный scan пропустит домен, если его смотрели меньше N дней. --force игнорирует.
+rescan_days = 14
+
+[pagespeed]
+# Ключ: https://developers.google.com/speed/docs/insights/v5/get-started
+# Пусто = только свой замер TTFB/CMS, без Lighthouse.
+api_key = ""
+strategy = "mobile"
+# PSI дергается только если локальный bad_score уже не ниже этого.
+min_local_score = 35
+
+[discover]
+# latest = спросить index.commoncrawl.org/collinfo.json
+crawl_id = "latest"
+# Региональные зоны UA. com.ua огромный и с CDX приходит алфавитный срез, не "вся Украина".
+zones = ["kh.ua", "kharkov.ua", "od.ua", "lviv.ua", "kyiv.ua", "kiev.ua", "dp.ua", "zp.ua"]
+# Сколько уникальных доменов забрать с одной зоны.
+limit_per_zone = 25
+
+[demand.freelancehunt]
+# Токен: https://freelancehunt.com/my/api
+token = ""
+# 96 = «создание сайта под ключ» на витрине freelancehunt. Пустой список = последние открытые проекты, фильтр по словам.
+skill_ids = [96]
+pages = 3
+
+[demand.telegram]
+# Публичные каналы, превью t.me/s/<channel>. Без логина и без закрытых чатов.
+channels = ["FreelancehuntProjects", "flua_web", "fh_web"]
+pages = 2
+
+[demand.rss]
+urls = []
+
+# Дополнительные подстроки к встроенному фильтру заявок на сайт.
+extra_keywords = []
+
+[notify]
+# Свой бот и свой chat_id. Пусто = только база и отчёт, в Telegram ничего не шлётся.
+bot_token = ""
+chat_id = ""
